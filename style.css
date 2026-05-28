@@ -33,3 +33,7 @@ button {
 button:hover {
     transform: scale(1.05);
 }
+
+.c {
+    color: #00f;
+}
